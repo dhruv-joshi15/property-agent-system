@@ -1,0 +1,44 @@
+PROPERTY_DATA = [
+    {
+        "parcel_id": "COOK001",
+        "zoning": "M1-1",
+        "shape_area": 10500,
+        "location": "123 INDUSTRIAL PARK, CHICAGO, IL",
+        "building_age": 1980
+    },
+    {
+        "parcel_id": "COOK002",
+        "zoning": "R3",
+        "shape_area": 4000,
+        "location": "45 RESIDENTIAL ST, CHICAGO, IL",
+        "building_age": 2001
+    },
+    {
+        "parcel_id": "DALLAS123",
+        "zoning": "I-2",
+        "shape_area": 15000,
+        "location": "789 DALLAS INDUSTRIAL AVE, DALLAS, TX",
+        "building_age": 1995
+    },
+    {
+        "parcel_id": "DALLAS456",
+        "zoning": "I-2",
+        "shape_area": 15200,
+        "location": "790 DALLAS INDUSTRIAL AVE, DALLAS, TX",
+        "building_age": 1992
+    },
+    {
+        "parcel_id": "LA999",
+        "zoning": "M2",
+        "shape_area": 18000,
+        "location": "456 LA INDUSTRIAL BLVD, LOS ANGELES, CA",
+        "building_age": 1985
+    },
+    {
+        "parcel_id": "LA100",
+        "zoning": "M2",
+        "shape_area": 17500,
+        "location": "460 LA INDUSTRIAL BLVD, LOS ANGELES, CA",
+        "building_age": 1987
+    }
+]
