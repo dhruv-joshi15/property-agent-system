@@ -1,5 +1,3 @@
-# agents/agent_base.py
-
 class AgentBase:
     def __init__(self, data: dict):
         self.data = data
