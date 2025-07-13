@@ -1,5 +1,3 @@
-# agents/agent_pipeline.py
-
 import json
 import os
 from typing import Dict, Any, List
