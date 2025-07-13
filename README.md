@@ -69,6 +69,22 @@ starboard-agent-system/
 ├── main.py                 # FastAPI entry point
 ├── requirements.txt        # Backend dependencies
 
+## Screenshots
+
+### Property Comparable UI
+
+![UI Input](./Screenshot%202.png)
+*Enter the county and Parcel ID*
+
+![UI Output](./Screenshot%201.png)
+*View of returned comparable properties*
+
+### API Documentation
+
+![Swagger API Docs](./Screenshot%203.png)
+*FastAPI Swagger UI with all endpoints*
+
+
 
 How It Works
 User selects a county and enters a parcel ID in the frontend.
