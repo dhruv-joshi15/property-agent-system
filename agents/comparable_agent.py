@@ -1,5 +1,3 @@
-# agents/comparable_agent.py
-
 from data.properties import PROPERTY_DATA as PROPERTIES_DATA
 from typing import List, Dict
 import math
