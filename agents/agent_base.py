@@ -17,10 +17,10 @@ class AgentBase:
             print(f"🔍 Checking: parcel_id={parcel_id}, zoning={zoning}")
 
             if county_check in parcel_id and zoning.startswith(zoning_check):
-                print(f"✅ MATCHED: {parcel_id}")
+                print(f"MATCHED: {parcel_id}")
                 filtered.append(prop)
             else:
-                print(f"❌ SKIPPED: {parcel_id}")
+                print(f"SKIPPED: {parcel_id}")
 
         print(f"🔎 Total matched for {county} / {zoning_code}: {len(filtered)}")
         return filtered
